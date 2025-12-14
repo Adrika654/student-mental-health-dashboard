@@ -36,4 +36,4 @@ This project is intended strictly for educational and analytical purposes. It do
 medical diagnosis, mental health screening, or treatment recommendations.
 
 ## Live Demo
-(Include Streamlit Cloud link here once deployed)
+https://adrikas-student-mental-health-dashboard.streamlit.app/
